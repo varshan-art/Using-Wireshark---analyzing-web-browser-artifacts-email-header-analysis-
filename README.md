@@ -1,4 +1,6 @@
 # Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
+## Name: SRIVIJAYVARSAN G
+## Reg No: 212225240157
 ## AIM:
 To use Wireshark to analyze web browser activities and inspect email headers from captured network traffic.
 ## Architecture Diagram:
@@ -55,7 +57,13 @@ flowchart TD
 ```
 
 ## OUTPUT:
-Captured Web Activity and Email Header Information
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/825540bc-e843-4f2b-9619-1f3d81aa536a" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4cf34a13-7f9a-4bf2-b44e-e581bbc64abb" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/0be65612-842e-404f-9db9-dbaec06eb65d" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/e2918ce6-4076-4198-8a82-e878614c6d89" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4e52e9b1-227f-44b2-b7a7-222d0cd3fd06" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6320f688-458c-4f58-b74a-92be746967a7" />
+
 
 ## RESULT:
 Web browser artifacts and email headers were successfully analyzed using Wireshark.
